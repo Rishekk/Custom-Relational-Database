@@ -90,3 +90,4 @@ Dive into the code and start exploring the capabilities of this RDBMS. Happy cod
 # Updated on day 7
 # Updated on day 8
 # Updated on day 9
+# Updated on day 10
