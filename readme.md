@@ -86,3 +86,4 @@ Dive into the code and start exploring the capabilities of this RDBMS. Happy cod
 # Updated on day 3
 # Updated on day 4
 # Updated on day 5
+# Updated on day 6
